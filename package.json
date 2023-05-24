@@ -1,0 +1,28 @@
+{
+  "name": "referme-company",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moufid-sgh/ReferMe-Company.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moufid-sgh/ReferMe-Company/issues"
+  },
+  "homepage": "https://github.com/Moufid-sgh/ReferMe-Company#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.1"
+  }
+}
