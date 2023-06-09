@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply dark:bg-[#1E1E20]  dark:text-white-500
+  } 
+  input[type="text"],
+  input[type="password"],
+  input[type="email"],
+  input[type="number"],
+  input[type="tel"],
+  input[type="search"],
+  textarea {
+    @apply dark:bg-[#1E1E20]  dark:text-white-500
+  }
+  }
+
+@layer components {
+
+  .my-react-select-container .my-react-select__control {
+    @apply dark:bg-[#1E1E20] dark:text-white-500
+  }
+
+  .my-react-select-container .my-react-select__control--is-focused {
+    @apply dark:bg-[#1E1E20]  shadow-none
+  }
+
+
+  .my-react-select-container .my-react-select__option {
+    @apply dark:bg-[#1E1E20]  dark:text-white-500 dark:hover:text-blue
+  }
+
+  .my-react-select-container .my-react-select__menu {
+    @apply dark:bg-[#1E1E20] dark:text-white-500
+  }
+  .my-react-select-container .my-react-select__input-container,
+  .my-react-select-container .my-react-select__placeholder,
+  .my-react-select-container .my-react-select__single-value {
+    @apply  dark:text-white-500
+  }
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@layer utilities {
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type="number"] {
+    -moz-appearance: textfield;
+}
+}
+
+/* btn *******************/
+.blue-btn {
+ @apply text-sm tracking-wide py-2 px-7 border-blue text-white-500 bg-blue border-2 rounded-lg hover:bg-white-500 hover:text-blue hover:border-blue dark:border-blue dark:bg-[#1E1E20] dark:text-white-500 dark:hover:bg-blue transition-all duration-500
+}
+.green-btn {
+  @apply text-sm tracking-wide py-2 px-7 border-green-500 text-white-500 bg-green-500 border-2 rounded-lg hover:bg-white-500 hover:text-green-500 hover:border-green-500 dark:border-green-500 dark:bg-[#1E1E20] dark:text-white-500 dark:hover:bg-green-500 transition-all duration-500
+}
+
+/* inputstyle */
+.inputstyle {
+  @apply border border-[#CCCCCC] text-sm outline-none h-10 p-2 rounded-md focus:border-royaleblue focus:ring-royaleblue focus:ring-0 placeholder-gray-400
+}
+
+/* bg-gradient */
+.bg-gradient {
+background: linear-gradient(to left top, rgb(56, 189, 248), rgb(59, 130, 246))
+}
+
+/* scrollbar *************/
+.scrollbar::-webkit-scrollbar {
+  width:7px;
+  height: 7px;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+  border-radius: 15px;
+  background: #f7f4ed;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background: #AFB5C0;
+  border-radius: 15px;
+}
+
+.scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #AFB5C0 #f7f4ed;
+}  

@@ -1,0 +1,1510 @@
+    {
+        "Agriculture Sector": [
+            {
+                "value": "Crop farming",
+                "label": "Crop farming"
+            },
+            {
+                "value": "Livestock farming",
+                "label": "Livestock farming"
+            },
+            {
+                "value": "Dairy production",
+                "label": "Dairy production"
+            },
+            {
+                "value": "Poultry farming",
+                "label": "Poultry farming"
+            },
+            {
+                "value": "Fishing and aquaculture",
+                "label": "Fishing and aquaculture"
+            },
+            {
+                "value": "Forestry and logging",
+                "label": "Forestry and logging"
+            },
+            {
+                "value": "Agricultural machinery and equipment",
+                "label": "Agricultural machinery and equipment"
+            }
+        ],
+        "Mining and Extraction Sector": [
+            {
+                "value": "Coal mining",
+                "label": "Coal mining"
+            },
+            {
+                "value": "Metal ore mining",
+                "label": "Metal ore mining"
+            },
+            {
+                "value": "Oil and gas extraction",
+                "label": "Oil and gas extraction"
+            },
+            {
+                "value": "Non-metallic mineral mining and quarrying",
+                "label": "Non-metallic mineral mining and quarrying"
+            },
+            {
+                "value": "Support activities for mining",
+                "label": "Support activities for mining"
+            }
+        ],
+        "Manufacturing Sector": [
+            {
+                "value": "Automotive manufacturing",
+                "label": "Automotive manufacturing"
+            },
+            {
+                "value": "Electronics manufacturing",
+                "label": "Electronics manufacturing"
+            },
+            {
+                "value": "Pharmaceutical manufacturing",
+                "label": "Pharmaceutical manufacturing"
+            },
+            {
+                "value": "Food and beverage manufacturing",
+                "label": "Food and beverage manufacturing"
+            },
+            {
+                "value": "Textile and clothing manufacturing",
+                "label": "Textile and clothing manufacturing"
+            },
+            {
+                "value": "Chemical manufacturing",
+                "label": "Chemical manufacturing"
+            },
+            {
+                "value": "Machinery manufacturing",
+                "label": "Machinery manufacturing"
+            }
+        ],
+        "Construction Sector": [
+            {
+                "value": "Residential construction",
+                "label": "Residential construction"
+            },
+            {
+                "value": "Commercial construction",
+                "label": "Commercial construction"
+            },
+            {
+                "value": "Infrastructure development",
+                "label": "Infrastructure development"
+            },
+            {
+                "value": "Civil engineering",
+                "label": "Civil engineering"
+            },
+            {
+                "value": "Architectural services",
+                "label": "Architectural services"
+            },
+            {
+                "value": "Building materials manufacturing",
+                "label": "Building materials manufacturing"
+            }
+        ],
+        "Transportation and Logistics Sector": [
+            {
+                "value": "Road transportation",
+                "label": "Road transportation"
+            },
+            {
+                "value": "Air transportation",
+                "label": "Air transportation"
+            },
+            {
+                "value": "Rail transportation",
+                "label": "Rail transportation"
+            },
+            {
+                "value": "Maritime transportation",
+                "label": "Maritime transportation"
+            },
+            {
+                "value": "Courier and delivery services",
+                "label": "Courier and delivery services"
+            },
+            {
+                "value": "Warehousing and storage",
+                "label": "Warehousing and storage"
+            },
+            {
+                "value": "Freight forwarding",
+                "label": "Freight forwarding"
+            }
+        ],
+        "Financial Services Sector": [
+            {
+                "value": "Banking",
+                "label": "Banking"
+            },
+            {
+                "value": "Investment banking",
+                "label": "Investment banking"
+            },
+            {
+                "value": "Insurance",
+                "label": "Insurance"
+            },
+            {
+                "value": "Asset management",
+                "label": "Asset management"
+            },
+            {
+                "value": "Securities trading",
+                "label": "Securities trading"
+            },
+            {
+                "value": "Credit card services",
+                "label": "Credit card services"
+            },
+            {
+                "value": "Financial technology (Fintech)",
+                "label": "Financial technology (Fintech)"
+            }
+        ],
+        "Real Estate Sector": [
+            {
+                "value": "Residential real estate",
+                "label": "Residential real estate"
+            },
+            {
+                "value": "Commercial real estate",
+                "label": "Commercial real estate"
+            },
+            {
+                "value": "Property development",
+                "label": "Property development"
+            },
+            {
+                "value": "Property management",
+                "label": "Property management"
+            },
+            {
+                "value": "Real estate investment trusts (REITs)",
+                "label": "Real estate investment trusts (REITs)"
+            },
+            {
+                "value": "Real estate brokerage",
+                "label": "Real estate brokerage"
+            }
+        ],
+        "Information Technology Sector": [
+            {
+                "value": "Software development",
+                "label": "Software development"
+            },
+            {
+                "value": "Hardware manufacturing",
+                "label": "Hardware manufacturing"
+            },
+            {
+                "value": "IT consulting",
+                "label": "IT consulting"
+            },
+            {
+                "value": "Data analytics",
+                "label": "Data analytics"
+            },
+            {
+                "value": "Cloud computing services",
+                "label": "Cloud computing services"
+            },
+            {
+                "value": "Cybersecurity services",
+                "label": "Cybersecurity services"
+            },
+            {
+                "value": "Telecommunications",
+                "label": "Telecommunications"
+            }
+        ],
+        "Retail Sector": [
+            [
+                {
+                    "value": "Apparel and fashion retail",
+                    "label": "Apparel and fashion retail"
+                },
+                {
+                    "value": "Grocery retail",
+                    "label": "Grocery retail"
+                },
+                {
+                    "value": "Electronics retail",
+                    "label": "Electronics retail"
+                },
+                {
+                    "value": "Home goods retail",
+                    "label": "Home goods retail"
+                },
+                {
+                    "value": "E-commerce and online retail",
+                    "label": "E-commerce and online retail"
+                },
+                {
+                    "value": "Department stores",
+                    "label": "Department stores"
+                },
+                {
+                    "value": "Specialty stores",
+                    "label": "Specialty stores"
+                }
+            ]
+        ],
+        "Healthcare and Pharmaceuticals Sector": [
+            [
+                {
+                    "value": "Hospitals and clinics",
+                    "label": "Hospitals and clinics"
+                },
+                {
+                    "value": "Pharmaceuticals manufacturing",
+                    "label": "Pharmaceuticals manufacturing"
+                },
+                {
+                    "value": "Medical devices manufacturing",
+                    "label": "Medical devices manufacturing"
+                },
+                {
+                    "value": "Biotechnology",
+                    "label": "Biotechnology"
+                },
+                {
+                    "value": "Health insurance",
+                    "label": "Health insurance"
+                },
+                {
+                    "value": "Healthcare IT services",
+                    "label": "Healthcare IT services"
+                },
+                {
+                    "value": "Medical research",
+                    "label": "Medical research"
+                }
+            ]
+        ],
+        "Energy and Utilities Sector": [
+            [
+                {
+                    "value": "Electricity generation and distribution",
+                    "label": "Electricity generation and distribution"
+                },
+                {
+                    "value": "Oil and gas refining",
+                    "label": "Oil and gas refining"
+                },
+                {
+                    "value": "Renewable energy (solar, wind, hydro, etc.)",
+                    "label": "Renewable energy (solar, wind, hydro, etc.)"
+                },
+                {
+                    "value": "Water utilities",
+                    "label": "Water utilities"
+                },
+                {
+                    "value": "Waste management",
+                    "label": "Waste management"
+                },
+                {
+                    "value": "Energy trading and services",
+                    "label": "Energy trading and services"
+                }
+            ]
+        ],
+        "Hospitality and Tourism Sector": [
+            [
+                {
+                    "value": "Hotels and resorts",
+                    "label": "Hotels and resorts"
+                },
+                {
+                    "value": "Restaurants and food services",
+                    "label": "Restaurants and food services"
+                },
+                {
+                    "value": "Travel agencies",
+                    "label": "Travel agencies"
+                },
+                {
+                    "value": "Airlines and aviation services",
+                    "label": "Airlines and aviation services"
+                },
+                {
+                    "value": "Event management",
+                    "label": "Event management"
+                },
+                {
+                    "value": "Tour operators",
+                    "label": "Tour operators"
+                },
+                {
+                    "value": "Cruise lines",
+                    "label": "Cruise lines"
+                }
+            ]
+        ],
+        "Media and Entertainment Sector": [
+            [
+                {
+                    "value": "Film and television production",
+                    "label": "Film and television production"
+                },
+                {
+                    "value": "Music production and distribution",
+                    "label": "Music production and distribution"
+                },
+                {
+                    "value": "Broadcasting (radio and television)",
+                    "label": "Broadcasting (radio and television)"
+                },
+                {
+                    "value": "Publishing (books, magazines, newspapers)",
+                    "label": "Publishing (books, magazines, newspapers)"
+                },
+                {
+                    "value": "Advertising and marketing",
+                    "label": "Advertising and marketing"
+                },
+                {
+                    "value": "Gaming industry",
+                    "label": "Gaming industry"
+                },
+                {
+                    "value": "Live events and concerts",
+                    "label": "Live events and concerts"
+                }
+            ]
+        ],
+        "Education Sector": [
+            [
+                {
+                    "value": "Primary and secondary schools",
+                    "label": "Primary and secondary schools"
+                },
+                {
+                    "value": "Higher education institutions (colleges, universities)",
+                    "label": "Higher education institutions (colleges, universities)"
+                },
+                {
+                    "value": "Vocational and technical training",
+                    "label": "Vocational and technical training"
+                },
+                {
+                    "value": "Online education platforms",
+                    "label": "Online education platforms"
+                },
+                {
+                    "value": "Educational publishing",
+                    "label": "Educational publishing"
+                },
+                {
+                    "value": "Education technology (EdTech)",
+                    "label": "Education technology (EdTech)"
+                },
+                {
+                    "value": "Language schools and training centers",
+                    "label": "Language schools and training centers"
+                }
+            ]
+        ],
+        "Professional Services Sector": [
+            [
+                {
+                    "value": "Legal services",
+                    "label": "Legal services"
+                },
+                {
+                    "value": "Accounting and auditing",
+                    "label": "Accounting and auditing"
+                },
+                {
+                    "value": "Management consulting",
+                    "label": "Management consulting"
+                },
+                {
+                    "value": "Human resources consulting",
+                    "label": "Human resources consulting"
+                },
+                {
+                    "value": "Engineering services",
+                    "label": "Engineering services"
+                },
+                {
+                    "value": "Architecture and design",
+                    "label": "Architecture and design"
+                },
+                {
+                    "value": "Market research",
+                    "label": "Market research"
+                }
+            ]
+        ],
+        "Telecommunications Sector": [
+            [
+                {
+                    "value": "Mobile network operators",
+                    "label": "Mobile network operators"
+                },
+                {
+                    "value": "Internet service providers (ISPs)",
+                    "label": "Internet service providers (ISPs)"
+                },
+                {
+                    "value": "Telecommunication equipment manufacturing",
+                    "label": "Telecommunication equipment manufacturing"
+                },
+                {
+                    "value": "Satellite communication services",
+                    "label": "Satellite communication services"
+                },
+                {
+                    "value": "Voice and data communication services",
+                    "label": "Voice and data communication services"
+                },
+                {
+                    "value": "Network infrastructure development",
+                    "label": "Network infrastructure development"
+                },
+                {
+                    "value": "Telecommunication consulting",
+                    "label": "Telecommunication consulting"
+                }
+            ]
+        ],
+        "Aerospace and Defense Sector": [
+            [
+                {
+                    "value": "Aircraft manufacturing",
+                    "label": "Aircraft manufacturing"
+                },
+                {
+                    "value": "Defense equipment manufacturing",
+                    "label": "Defense equipment manufacturing"
+                },
+                {
+                    "value": "Aerospace engineering",
+                    "label": "Aerospace engineering"
+                },
+                {
+                    "value": "Space exploration and technology",
+                    "label": "Space exploration and technology"
+                },
+                {
+                    "value": "Military support services",
+                    "label": "Military support services"
+                },
+                {
+                    "value": "Airline services",
+                    "label": "Airline services"
+                },
+                {
+                    "value": "Homeland security services",
+                    "label": "Homeland security services"
+                }
+            ]
+        ],
+        "Automotive Sector": [
+            [
+                {
+                    "value": "Vehicle manufacturing",
+                    "label": "Vehicle manufacturing"
+                },
+                {
+                    "value": "Automotive parts and components manufacturing",
+                    "label": "Automotive parts and components manufacturing"
+                },
+                {
+                    "value": "Automotive sales and dealership",
+                    "label": "Automotive sales and dealership"
+                },
+                {
+                    "value": "Automotive repair and maintenance",
+                    "label": "Automotive repair and maintenance"
+                },
+                {
+                    "value": "Car rental and leasing services",
+                    "label": "Car rental and leasing services"
+                },
+                {
+                    "value": "Automotive accessories and aftermarket",
+                    "label": "Automotive accessories and aftermarket"
+                },
+                {
+                    "value": "Electric vehicle technology",
+                    "label": "Electric vehicle technology"
+                }
+            ]
+        ],
+        "Nonprofit and Social Services Sector": [
+            [
+                {
+                    "value": "Charitable organizations",
+                    "label": "Charitable organizations"
+                },
+                {
+                    "value": "Social advocacy groups",
+                    "label": "Social advocacy groups"
+                },
+                {
+                    "value": "Environmental conservation organizations",
+                    "label": "Environmental conservation organizations"
+                },
+                {
+                    "value": "Healthcare nonprofits",
+                    "label": "Healthcare nonprofits"
+                },
+                {
+                    "value": "Educational nonprofits",
+                    "label": "Educational nonprofits"
+                },
+                {
+                    "value": "Humanitarian aid and relief organizations",
+                    "label": "Humanitarian aid and relief organizations"
+                },
+                {
+                    "value": "Community development organizations",
+                    "label": "Community development organizations"
+                }
+            ]
+        ],
+        "Sports and Fitness Sector": [
+            [
+                {
+                    "value": "Sports leagues and associations",
+                    "label": "Sports leagues and associations"
+                },
+                {
+                    "value": "Sports equipment manufacturing",
+                    "label": "Sports equipment manufacturing"
+                },
+                {
+                    "value": "Fitness clubs and gyms",
+                    "label": "Fitness clubs and gyms"
+                },
+                {
+                    "value": "Sports apparel and merchandise",
+                    "label": "Sports apparel and merchandise"
+                },
+                {
+                    "value": "Sports marketing and sponsorship",
+                    "label": "Sports marketing and sponsorship"
+                },
+                {
+                    "value": "Sports media and broadcasting",
+                    "label": "Sports media and broadcasting"
+                },
+                {
+                    "value": "Sports event management",
+                    "label": "Sports event management"
+                }
+            ]
+        ],
+        "Food and Beverage Sector": [
+            [
+                {
+                    "value": "Restaurants and cafes",
+                    "label": "Restaurants and cafes"
+                },
+                {
+                    "value": "Beverage manufacturing (soft drinks, alcoholic beverages)",
+                    "label": "Beverage manufacturing (soft drinks, alcoholic beverages)"
+                },
+                {
+                    "value": "Food processing and packaging",
+                    "label": "Food processing and packaging"
+                },
+                {
+                    "value": "Catering services",
+                    "label": "Catering services"
+                },
+                {
+                    "value": "Specialty food stores",
+                    "label": "Specialty food stores"
+                },
+                {
+                    "value": "Food delivery and meal kit services",
+                    "label": "Food delivery and meal kit services"
+                },
+                {
+                    "value": "Food ingredients and additives manufacturing",
+                    "label": "Food ingredients and additives manufacturing"
+                }
+            ]
+        ],
+        "Environmental and Sustainability Sector": [
+            [
+                {
+                    "value": "Renewable energy development and installation",
+                    "label": "Renewable energy development and installation"
+                },
+                {
+                    "value": "Waste management and recycling",
+                    "label": "Waste management and recycling"
+                },
+                {
+                    "value": "Environmental consulting and services",
+                    "label": "Environmental consulting and services"
+                },
+                {
+                    "value": "Sustainable agriculture and farming",
+                    "label": "Sustainable agriculture and farming"
+                },
+                {
+                    "value": "Green building and construction",
+                    "label": "Green building and construction"
+                },
+                {
+                    "value": "Water treatment and conservation",
+                    "label": "Water treatment and conservation"
+                },
+                {
+                    "value": "Carbon offset and emission reduction services",
+                    "label": "Carbon offset and emission reduction services"
+                }
+            ]
+        ],
+        "Art and Culture Sector": [
+            [
+                {
+                    "value": "Art galleries and museums",
+                    "label": "Art galleries and museums"
+                },
+                {
+                    "value": "Performing arts companies (theaters, dance, opera)",
+                    "label": "Performing arts companies (theaters, dance, opera)"
+                },
+                {
+                    "value": "Fine art and craft production",
+                    "label": "Fine art and craft production"
+                },
+                {
+                    "value": "Art restoration and conservation",
+                    "label": "Art restoration and conservation"
+                },
+                {
+                    "value": "Cultural heritage preservation",
+                    "label": "Cultural heritage preservation"
+                },
+                {
+                    "value": "Art auctions and sales",
+                    "label": "Art auctions and sales"
+                },
+                {
+                    "value": "Music and dance academies",
+                    "label": "Music and dance academies"
+                }
+            ]
+        ],
+        "Wholesale and Distribution Sector": [
+            [
+                {
+                    "value": "Wholesale trade of various products (consumer goods, industrial supplies)",
+                    "label": "Wholesale trade of various products (consumer goods, industrial supplies)"
+                },
+                {
+                    "value": "Distributors of electronics and appliances",
+                    "label": "Distributors of electronics and appliances"
+                },
+                {
+                    "value": "Wholesale distribution of pharmaceuticals and medical supplies",
+                    "label": "Wholesale distribution of pharmaceuticals and medical supplies"
+                },
+                {
+                    "value": "Wholesale distribution of automotive parts",
+                    "label": "Wholesale distribution of automotive parts"
+                },
+                {
+                    "value": "Wholesale distribution of building materials",
+                    "label": "Wholesale distribution of building materials"
+                },
+                {
+                    "value": "Wholesale distribution of clothing and fashion accessories",
+                    "label": "Wholesale distribution of clothing and fashion accessories"
+                },
+                {
+                    "value": "Wholesale distribution of agricultural products",
+                    "label": "Wholesale distribution of agricultural products"
+                }
+            ]
+        ],
+        "Insurance Sector": [
+            {
+                "value": "Life insurance",
+                "label": "Life insurance"
+            },
+            {
+                "value": "Property and casualty insurance",
+                "label": "Property and casualty insurance"
+            },
+            {
+                "value": "Health insurance",
+                "label": "Health insurance"
+            },
+            {
+                "value": "Reinsurance",
+                "label": "Reinsurance"
+            },
+            {
+                "value": "Insurance brokerage",
+                "label": "Insurance brokerage"
+            },
+            {
+                "value": "Insurance underwriting",
+                "label": "Insurance underwriting"
+            },
+            {
+                "value": "Actuarial services",
+                "label": "Actuarial services"
+            }
+        ],
+        "Research and Development (R&D) Sector": [
+            {
+                "value": "Scientific research organizations",
+                "label": "Scientific research organizations"
+            },
+            {
+                "value": "Pharmaceutical R&D",
+                "label": "Pharmaceutical R&D"
+            },
+            {
+                "value": "Technology research and development",
+                "label": "Technology research and development"
+            },
+            {
+                "value": "Automotive R&D",
+                "label": "Automotive R&D"
+            },
+            {
+                "value": "Aerospace and defense R&D",
+                "label": "Aerospace and defense R&D"
+            },
+            {
+                "value": "Energy sector R&D",
+                "label": "Energy sector R&D"
+            },
+            {
+                "value": "Agricultural research",
+                "label": "Agricultural research"
+            }
+        ],
+        "Legal Services Sector": [
+            {
+                "value": "Corporate law firms",
+                "label": "Corporate law firms"
+            },
+            {
+                "value": "Intellectual property law firms",
+                "label": "Intellectual property law firms"
+            },
+            {
+                "value": "Litigation law firms",
+                "label": "Litigation law firms"
+            },
+            {
+                "value": "Family law firms",
+                "label": "Family law firms"
+            },
+            {
+                "value": "Tax law firms",
+                "label": "Tax law firms"
+            },
+            {
+                "value": "Immigration law firms",
+                "label": "Immigration law firms"
+            }
+        ],
+        "Gaming and Esports Sector": [
+            {
+                "value": "Video game development and publishing",
+                "label": "Video game development and publishing"
+            },
+            {
+                "value": "Esports teams and tournaments",
+                "label": "Esports teams and tournaments"
+            },
+            {
+                "value": "Gaming hardware and accessories",
+                "label": "Gaming hardware and accessories"
+            },
+            {
+                "value": "Game streaming platforms",
+                "label": "Game streaming platforms"
+            },
+            {
+                "value": "Gaming content creation and influencers",
+                "label": "Gaming content creation and influencers"
+            },
+            {
+                "value": "Gaming events and conferences",
+                "label": "Gaming events and conferences"
+            },
+            {
+                "value": "Gaming merchandise and collectibles",
+                "label": "Gaming merchandise and collectibles"
+            }
+        ],
+        "Personal Care and Beauty Sector": [
+            {
+                "value": "Skincare and cosmetics manufacturing",
+                "label": "Skincare and cosmetics manufacturing"
+            },
+            {
+                "value": "Haircare products and salons",
+                "label": "Haircare products and salons"
+            },
+            {
+                "value": "Spa and wellness centers",
+                "label": "Spa and wellness centers"
+            },
+            {
+                "value": "Beauty and personal care retail",
+                "label": "Beauty and personal care retail"
+            },
+            {
+                "value": "Fragrances and perfumes",
+                "label": "Fragrances and perfumes"
+            },
+            {
+                "value": "Cosmetic surgery and aesthetics clinics",
+                "label": "Cosmetic surgery and aesthetics clinics"
+            },
+            {
+                "value": "Natural and organic personal care products",
+                "label": "Natural and organic personal care products"
+            }
+        ],
+        "Social Media and Communication Sector": [
+            {
+                "value": "Social media platforms",
+                "label": "Social media platforms"
+            },
+            {
+                "value": "Messaging and communication apps",
+                "label": "Messaging and communication apps"
+            },
+            {
+                "value": "Online forums and communities",
+                "label": "Online forums and communities"
+            },
+            {
+                "value": "Content creation and digital influencers",
+                "label": "Content creation and digital influencers"
+            },
+            {
+                "value": "Digital advertising and marketing agencies",
+                "label": "Digital advertising and marketing agencies"
+            },
+            {
+                "value": "Social media analytics and monitoring",
+                "label": "Social media analytics and monitoring"
+            },
+            {
+                "value": "Voice and video calling services",
+                "label": "Voice and video calling services"
+            }
+        ],
+        "Advertising and Marketing Sector": [
+            {
+                "value": "Advertising agencies",
+                "label": "Advertising agencies"
+            },
+            {
+                "value": "Digital marketing agencies",
+                "label": "Digital marketing agencies"
+            },
+            {
+                "value": "Public relations firms",
+                "label": "Public relations firms"
+            },
+            {
+                "value": "Media buying and planning",
+                "label": "Media buying and planning"
+            },
+            {
+                "value": "Market research and analytics",
+                "label": "Market research and analytics"
+            },
+            {
+                "value": "Branding and creative services",
+                "label": "Branding and creative services"
+            },
+            {
+                "value": "Social media marketing",
+                "label": "Social media marketing"
+            }
+        ],
+        "Renewable Energy Sector": [
+            {
+                "value": "Solar power generation",
+                "label": "Solar power generation"
+            },
+            {
+                "value": "Wind power generation",
+                "label": "Wind power generation"
+            },
+            {
+                "value": "Biomass energy",
+                "label": "Biomass energy"
+            },
+            {
+                "value": "Geothermal energy",
+                "label": "Geothermal energy"
+            },
+            {
+                "value": "Hydropower generation",
+                "label": "Hydropower generation"
+            },
+            {
+                "value": "Energy storage solutions",
+                "label": "Energy storage solutions"
+            },
+            {
+                "value": "Renewable energy consulting",
+                "label": "Renewable energy consulting"
+            }
+        ],
+        "E-commerce and Online Services Sector": [
+            {
+                "value": "Online retail platforms",
+                "label": "Online retail platforms"
+            },
+            {
+                "value": "Online marketplace platforms",
+                "label": "Online marketplace platforms"
+            },
+            {
+                "value": "E-commerce logistics and fulfillment",
+                "label": "E-commerce logistics and fulfillment"
+            },
+            {
+                "value": "Digital payment systems",
+                "label": "Digital payment systems"
+            },
+            {
+                "value": "Online travel booking services",
+                "label": "Online travel booking services"
+            },
+            {
+                "value": "Online food delivery platforms",
+                "label": "Online food delivery platforms"
+            },
+            {
+                "value": "Digital streaming services",
+                "label": "Digital streaming services"
+            }
+        ],
+        "Aerospace Manufacturing Sector": [
+            {
+                "value": "Aircraft manufacturing",
+                "label": "Aircraft manufacturing"
+            },
+            {
+                "value": "Spacecraft manufacturing",
+                "label": "Spacecraft manufacturing"
+            },
+            {
+                "value": "Drone manufacturing",
+                "label": "Drone manufacturing"
+            },
+            {
+                "value": "Aerospace component manufacturing",
+                "label": "Aerospace component manufacturing"
+            },
+            {
+                "value": "Aircraft engine manufacturing",
+                "label": "Aircraft engine manufacturing"
+            },
+            {
+                "value": "Satellite manufacturing",
+                "label": "Satellite manufacturing"
+            },
+            {
+                "value": "Aerospace materials and technologies",
+                "label": "Aerospace materials and technologies"
+            }
+        ],
+        "Waste Management Sector": [
+            {
+                "value": "Recycling facilities",
+                "label": "Recycling facilities"
+            },
+            {
+                "value": "Waste collection and disposal services",
+                "label": "Waste collection and disposal services"
+            },
+            {
+                "value": "Hazardous waste management",
+                "label": "Hazardous waste management"
+            },
+            {
+                "value": "Waste treatment and recovery",
+                "label": "Waste treatment and recovery"
+            },
+            {
+                "value": "Waste-to-energy conversion",
+                "label": "Waste-to-energy conversion"
+            },
+            {
+                "value": "Landfill management",
+                "label": "Landfill management"
+            },
+            {
+                "value": "Waste consulting and sustainability services",
+                "label": "Waste consulting and sustainability services"
+            }
+        ],
+        "Luxury Goods Sector": [
+            {
+                "value": "High-end fashion and accessories",
+                "label": "High-end fashion and accessories"
+            },
+            {
+                "value": "Luxury automobiles",
+                "label": "Luxury automobiles"
+            },
+            {
+                "value": "Fine jewelry and watches",
+                "label": "Fine jewelry and watches"
+            },
+            {
+                "value": "Luxury hospitality (hotels, resorts)",
+                "label": "Luxury hospitality (hotels, resorts)"
+            },
+            {
+                "value": "Luxury travel services",
+                "label": "Luxury travel services"
+            },
+            {
+                "value": "Luxury real estate",
+                "label": "Luxury real estate"
+            },
+            {
+                "value": "Fine art and collectibles",
+                "label": "Fine art and collectibles"
+            }
+        ],
+        "Biotechnology Sector": [
+            {
+                "value": "Pharmaceutical research and development",
+                "label": "Pharmaceutical research and development"
+            },
+            {
+                "value": "Genetic engineering and gene therapy",
+                "label": "Genetic engineering and gene therapy"
+            },
+            {
+                "value": "Biopharmaceutical manufacturing",
+                "label": "Biopharmaceutical manufacturing"
+            },
+            {
+                "value": "Biomedical devices and equipment",
+                "label": "Biomedical devices and equipment"
+            },
+            {
+                "value": "Bioprocessing and fermentation",
+                "label": "Bioprocessing and fermentation"
+            },
+            {
+                "value": "Agricultural biotechnology",
+                "label": "Agricultural biotechnology"
+            },
+            {
+                "value": "Biotechnology consulting",
+                "label": "Biotechnology consulting"
+            }
+        ],
+        "Robotics and Automation Sector": [
+            {
+                "value": "Industrial robotics manufacturing",
+                "label": "Industrial robotics manufacturing"
+            },
+            {
+                "value": "Robotic process automation",
+                "label": "Robotic process automation"
+            },
+            {
+                "value": "Autonomous vehicles and drones",
+                "label": "Autonomous vehicles and drones"
+            },
+            {
+                "value": "Medical robotics and surgical systems",
+                "label": "Medical robotics and surgical systems"
+            },
+            {
+                "value": "AI-powered automation solutions",
+                "label": "AI-powered automation solutions"
+            },
+            {
+                "value": "Service robotics (hospitality, logistics)",
+                "label": "Service robotics (hospitality, logistics)"
+            },
+            {
+                "value": "Robotics research and development",
+                "label": "Robotics research and development"
+            }
+        ],
+        "Clean Technology Sector": [
+            {
+                "value": "Clean energy technology",
+                "label": "Clean energy technology"
+            },
+            {
+                "value": "Energy-efficient appliances and systems",
+                "label": "Energy-efficient appliances and systems"
+            },
+            {
+                "value": "Water purification and treatment",
+                "label": "Water purification and treatment"
+            },
+            {
+                "value": "Sustainable transportation solutions",
+                "label": "Sustainable transportation solutions"
+            },
+            {
+                "value": "Green building materials",
+                "label": "Green building materials"
+            },
+            {
+                "value": "Environmental monitoring technology",
+                "label": "Environmental monitoring technology"
+            },
+            {
+                "value": "Clean technology consulting",
+                "label": "Clean technology consulting"
+            }
+        ],
+        "Intellectual Property Sector": [
+            {
+                "value": "Intellectual property law firms",
+                "label": "Intellectual property law firms"
+            },
+            {
+                "value": "Patent and trademark offices",
+                "label": "Patent and trademark offices"
+            },
+            {
+                "value": "Intellectual property licensing",
+                "label": "Intellectual property licensing"
+            },
+            {
+                "value": "IP consulting and strategy",
+                "label": "IP consulting and strategy"
+            },
+            {
+                "value": "Technology transfer and commercialization",
+                "label": "Technology transfer and commercialization"
+            },
+            {
+                "value": "Copyright and royalty management",
+                "label": "Copyright and royalty management"
+            },
+            {
+                "value": "IP valuation and monetization",
+                "label": "IP valuation and monetization"
+            }
+        ],
+        "Augmented Reality and Virtual Reality (AR/VR) Sector": [
+            {
+                "value": "AR/VR hardware manufacturing",
+                "label": "AR/VR hardware manufacturing"
+            },
+            {
+                "value": "AR/VR content development",
+                "label": "AR/VR content development"
+            },
+            {
+                "value": "Virtual reality gaming and entertainment",
+                "label": "Virtual reality gaming and entertainment"
+            },
+            {
+                "value": "Augmented reality applications in industries such as retail, education, and healthcare",
+                "label": "Augmented reality applications in industries such as retail, education, and healthcare"
+            },
+            {
+                "value": "AR/VR training and simulation",
+                "label": "AR/VR training and simulation"
+            },
+            {
+                "value": "AR/VR advertising and marketing",
+                "label": "AR/VR advertising and marketing"
+            },
+            {
+                "value": "AR/VR consulting and integration services",
+                "label": "AR/VR consulting and integration services"
+            }
+        ],
+        "Social Impact and Sustainability Sector": [
+            {
+                "value": "Social enterprises and businesses with a mission to create positive social and environmental impact",
+                "label": "Social enterprises and businesses with a mission to create positive social and environmental impact"
+            },
+            {
+                "value": "Sustainable fashion and accessories",
+                "label": "Sustainable fashion and accessories"
+            },
+            {
+                "value": "Ethical and fair trade products",
+                "label": "Ethical and fair trade products"
+            },
+            {
+                "value": "Social impact investing and financing",
+                "label": "Social impact investing and financing"
+            },
+            {
+                "value": "Community development initiatives",
+                "label": "Community development initiatives"
+            },
+            {
+                "value": "Social impact measurement and evaluation",
+                "label": "Social impact measurement and evaluation"
+            },
+            {
+                "value": "Sustainability consulting and advisory services",
+                "label": "Sustainability consulting and advisory services"
+            }
+        ],
+        "Artificial Intelligence (AI) and Machine Learning (ML) Sector": [
+            {
+                "value": "AI software development and platforms",
+                "label": "AI software development and platforms"
+            },
+            {
+                "value": "Machine learning algorithms and models",
+                "label": "Machine learning algorithms and models"
+            },
+            {
+                "value": "Natural language processing and understanding",
+                "label": "Natural language processing and understanding"
+            },
+            {
+                "value": "Computer vision and image recognition",
+                "label": "Computer vision and image recognition"
+            },
+            {
+                "value": "AI-powered chatbots and virtual assistants",
+                "label": "AI-powered chatbots and virtual assistants"
+            },
+            {
+                "value": "AI in healthcare diagnosis and treatment",
+                "label": "AI in healthcare diagnosis and treatment"
+            },
+            {
+                "value": "AI-driven predictive analytics",
+                "label": "AI-driven predictive analytics"
+            }
+        ],
+        "Personal Finance and Wealth Management Sector": [
+            {
+                "value": "Personal financial planning and advisory services",
+                "label": "Personal financial planning and advisory services"
+            },
+            {
+                "value": "Wealth management firms and private banking services",
+                "label": "Wealth management firms and private banking services"
+            },
+            {
+                "value": "Investment management and portfolio services",
+                "label": "Investment management and portfolio services"
+            },
+            {
+                "value": "Retirement planning and pension funds",
+                "label": "Retirement planning and pension funds"
+            },
+            {
+                "value": "Financial technology (Fintech) for personal finance",
+                "label": "Financial technology (Fintech) for personal finance"
+            },
+            {
+                "value": "Robo-advisors and automated investment platforms",
+                "label": "Robo-advisors and automated investment platforms"
+            },
+            {
+                "value": "Tax planning and preparation services",
+                "label": "Tax planning and preparation services"
+            }
+        ],
+        "Cybersecurity Sector": [
+            {
+                "value": "Network security solutions",
+                "label": "Network security solutions"
+            },
+            {
+                "value": "Data encryption and protection",
+                "label": "Data encryption and protection"
+            },
+            {
+                "value": "Threat intelligence and monitoring",
+                "label": "Threat intelligence and monitoring"
+            },
+            {
+                "value": "Identity and access management",
+                "label": "Identity and access management"
+            },
+            {
+                "value": "Security consulting and auditing",
+                "label": "Security consulting and auditing"
+            },
+            {
+                "value": "Incident response and recovery services",
+                "label": "Incident response and recovery services"
+            },
+            {
+                "value": "Cybersecurity training and education",
+                "label": "Cybersecurity training and education"
+            }
+        ],
+        "Gaming Software and Development Sector": [
+            {
+                "value": "Game design and development studios",
+                "label": "Game design and development studios"
+            },
+            {
+                "value": "Game engine development",
+                "label": "Game engine development"
+            },
+            {
+                "value": "Game testing and quality assurance",
+                "label": "Game testing and quality assurance"
+            },
+            {
+                "value": "Mobile game development",
+                "label": "Mobile game development"
+            },
+            {
+                "value": "Online multiplayer game platforms",
+                "label": "Online multiplayer game platforms"
+            },
+            {
+                "value": "Virtual reality gaming development",
+                "label": "Virtual reality gaming development"
+            },
+            {
+                "value": "Game publishing and distribution",
+                "label": "Game publishing and distribution"
+            }
+        ],
+        "Personal Wellness and Self-care Sector": [
+            {
+                "value": "Wellness retreats and spas",
+                "label": "Wellness retreats and spas"
+            },
+            {
+                "value": "Mindfulness and meditation apps",
+                "label": "Mindfulness and meditation apps"
+            },
+            {
+                "value": "Fitness and wellness coaching services",
+                "label": "Fitness and wellness coaching services"
+            },
+            {
+                "value": "Personal care and grooming products",
+                "label": "Personal care and grooming products"
+            },
+            {
+                "value": "Mental health and therapy services",
+                "label": "Mental health and therapy services"
+            },
+            {
+                "value": "Holistic health and alternative medicine",
+                "label": "Holistic health and alternative medicine"
+            },
+            {
+                "value": "Wellness and self-care subscription boxes",
+                "label": "Wellness and self-care subscription boxes"
+            }
+        ],
+        "Smart Home Technology Sector": [
+            {
+                "value": "Home automation systems",
+                "label": "Home automation systems"
+            },
+            {
+                "value": "Smart lighting and energy management",
+                "label": "Smart lighting and energy management"
+            },
+            {
+                "value": "Voice-activated home assistants",
+                "label": "Voice-activated home assistants"
+            },
+            {
+                "value": "Smart security systems and surveillance",
+                "label": "Smart security systems and surveillance"
+            },
+            {
+                "value": "Connected home appliances and devices",
+                "label": "Connected home appliances and devices"
+            },
+            {
+                "value": "Smart home sensors and monitoring",
+                "label": "Smart home sensors and monitoring"
+            },
+            {
+                "value": "Home automation consulting and integration",
+                "label": "Home automation consulting and integration"
+            }
+        ],
+        "Green and Sustainable Transportation Sector": [
+            {
+                "value": "Electric vehicle manufacturing",
+                "label": "Electric vehicle manufacturing"
+            },
+            {
+                "value": "Battery technology and charging infrastructure",
+                "label": "Battery technology and charging infrastructure"
+            },
+            {
+                "value": "Sustainable public transportation solutions",
+                "label": "Sustainable public transportation solutions"
+            },
+            {
+                "value": "Bicycle and scooter sharing services",
+                "label": "Bicycle and scooter sharing services"
+            },
+            {
+                "value": "Green logistics and delivery services",
+                "label": "Green logistics and delivery services"
+            },
+            {
+                "value": "Eco-friendly fuel and propulsion systems",
+                "label": "Eco-friendly fuel and propulsion systems"
+            },
+            {
+                "value": "Sustainable urban mobility planning",
+                "label": "Sustainable urban mobility planning"
+            }
+        ],
+        "Human Resources and Talent Management Sector": [
+            {
+                "value": "HR consulting and advisory services",
+                "label": "HR consulting and advisory services"
+            },
+            {
+                "value": "Recruitment and staffing agencies",
+                "label": "Recruitment and staffing agencies"
+            },
+            {
+                "value": "50",
+                "label": "Employee benefits and compensation management"
+            },
+            {
+                "value": "Training and development solutions",
+                "label": "Training and development solutions"
+            },
+            {
+                "value": "HR software and automation tools",
+                "label": "HR software and automation tools"
+            },
+            {
+                "value": "Workplace diversity and inclusion consulting",
+                "label": "Workplace diversity and inclusion consulting"
+            },
+            {
+                "value": "Employee well-being and mental health programs",
+                "label": "Employee well-being and mental health programs"
+            }
+        ]
+    }

@@ -1,0 +1,202 @@
+[
+    {
+        "value": "Agriculture Sector",
+        "label": "Agriculture Sector"
+    },
+    {
+        "value": "Mining and Extraction Sector",
+        "label": "Mining and Extraction Sector"
+    },
+    {
+        "value": "Manufacturing Sector",
+        "label": "Manufacturing Sector"
+    },
+    {
+        "value": "Construction Sector",
+        "label": "Construction Sector"
+    },
+    {
+        "value": "Transportation and Logistics Sector",
+        "label": "Transportation and Logistics Sector"
+    },
+    {
+        "value": "Financial Services Sector",
+        "label": "Financial Services Sector"
+    },
+    {
+        "value": "Real Estate Sector",
+        "label": "Real Estate Sector"
+    },
+    {
+        "value": "Information Technology Sector",
+        "label": "Information Technology Sector"
+    },
+    {
+        "value": "Retail Sector",
+        "label": "Retail Sector"
+    },
+    {
+        "value": "Healthcare and Pharmaceuticals Sector",
+        "label": "Healthcare and Pharmaceuticals Sector"
+    },
+    {
+        "value": "Energy and Utilities Sector",
+        "label": "Energy and Utilities Sector"
+    },
+    {
+        "value": "Hospitality and Tourism Sector",
+        "label": "Hospitality and Tourism Sector"
+    },
+    {
+        "value": "Media and Entertainment Sector",
+        "label": "Media and Entertainment Sector"
+    },
+    {
+        "value": "Education Sector",
+        "label": "Education Sector"
+    },
+    {
+        "value": "Professional Services Sector",
+        "label": "Professional Services Sector"
+    },
+    {
+        "value": "Telecommunications Sector",
+        "label": "Telecommunications Sector"
+    },
+    {
+        "value": "Aerospace and Defense Sector",
+        "label": "Aerospace and Defense Sector"
+    },
+    {
+        "value": "Automotive Sector",
+        "label": "Automotive Sector"
+    },
+    {
+        "value": "Nonprofit and Social Services Sector",
+        "label": "Nonprofit and Social Services Sector"
+    },
+    {
+        "value": "Sports and Fitness Sector",
+        "label": "Sports and Fitness Sector"
+    },
+    {
+        "value": "Food and Beverage Sector",
+        "label": "Food and Beverage Sector"
+    },
+    {
+        "value": "Environmental and Sustainability Sector",
+        "label": "Environmental and Sustainability Sector"
+    },
+    {
+        "value": "Art and Culture Sector",
+        "label": "Art and Culture Sector"
+    },
+    {
+        "value": "Wholesale and Distribution Sector",
+        "label": "Wholesale and Distribution Sector"
+    },
+    {
+        "value": "Insurance Sector",
+        "label": "Insurance Sector"
+    },
+    {
+        "value": "Research and Development (R&D) Sector",
+        "label": "Research and Development (R&D) Sector"
+    },
+    {
+        "value": "Legal Services Sector",
+        "label": "Legal Services Sector"
+    },
+    {
+        "value": "Gaming and Esports Sector",
+        "label": "Gaming and Esports Sector"
+    },
+    {
+        "value": "Personal Care and Beauty Sector",
+        "label": "Personal Care and Beauty Sector"
+    },
+    {
+        "value": "Social Media and Communication Sector",
+        "label": "Social Media and Communication Sector"
+    },
+    {
+        "value": "Advertising and Marketing Sector",
+        "label": "Advertising and Marketing Sector"
+    },
+    {
+        "value": "Renewable Energy Sector",
+        "label": "Renewable Energy Sector"
+    },
+    {
+        "value": "E-commerce and Online Services Sector",
+        "label": "E-commerce and Online Services Sector"
+    },
+    {
+        "value": "Aerospace Manufacturing Sector",
+        "label": "Aerospace Manufacturing Sector"
+    },
+    {
+        "value": "Waste Management Sector",
+        "label": "Waste Management Sector"
+    },
+    {
+        "value": "Luxury Goods Sector",
+        "label": "Luxury Goods Sector"
+    },
+    {
+        "value": "Biotechnology Sector",
+        "label": "Biotechnology Sector"
+    },
+    {
+        "value": "Robotics and Automation Sector",
+        "label": "Robotics and Automation Sector"
+    },
+    {
+        "value": "Clean Technology Sector",
+        "label": "Clean Technology Sector"
+    },
+    {
+        "value": "Intellectual Property Sector",
+        "label": "Intellectual Property Sector"
+    },
+    {
+        "value": "Augmented Reality and Virtual Reality (AR/VR) Sector",
+        "label": "Augmented Reality and Virtual Reality (AR/VR) Sector"
+    },
+    {
+        "value": "Social Impact and Sustainability Sector",
+        "label": "Social Impact and Sustainability Sector"
+    },
+    {
+        "value": "Artificial Intelligence (AI) and Machine Learning (ML) Sector",
+        "label": "Artificial Intelligence (AI) and Machine Learning (ML) Sector"
+    },
+    {
+        "value": "Personal Finance and Wealth Management Sector",
+        "label": "Personal Finance and Wealth Management Sector"
+    },
+    {
+        "value": "Cybersecurity Sector",
+        "label": "Cybersecurity Sector"
+    },
+    {
+        "value": "Gaming Software and Development Sector",
+        "label": "Gaming Software and Development Sector"
+    },
+    {
+        "value": "Personal Wellness and Self-care Sector",
+        "label": "Personal Wellness and Self-care Sector"
+    },
+    {
+        "value": "Smart Home Technology Sector",
+        "label": "Smart Home Technology Sector"
+    },
+    {
+        "value": "Green and Sustainable Transportation Sector",
+        "label": "Green and Sustainable Transportation Sector"
+    },
+    {
+        "value": "Human Resources and Talent Management Sector",
+        "label": "Human Resources and Talent Management Sector"
+    }
+]
